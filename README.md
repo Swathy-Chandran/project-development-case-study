@@ -8,7 +8,7 @@ https://github.com/Swathy-Chandran
 
 This repository documents my development process, problem-solving approach, and technical decisions across multiple projects. It highlights how I design, build, debug, and improve real-world applications.
 
-Demonstrates my approach to building real-world applications, with focus on full stack development, AI-driven solutions, and system design.
+This case study documents my development process, problem-solving approach, and technical decisions across projects. It highlights how I design, build, debug, and improve real-world applications, showcasing my skills in full stack development, AI, and system design.
 ## 🛠️ Overall Development Approach
 
 For my projects, I followed a structured development approach:
